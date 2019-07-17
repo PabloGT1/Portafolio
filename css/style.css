@@ -1,0 +1,62 @@
+body {
+	background: #303841;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.bd {
+	background: #348EA9;
+	margin: 0 !important;
+}
+.bbd{
+	background: #7CBFD5;
+	margin: 0 !important;
+}
+.tt {
+	font-family: elephant;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+.txM {
+	font-family: arial black;
+	color: #EACD2E;
+	text-align: right;
+}
+.txm {
+	font-family: arial;
+	color: #DA9621;
+}
+.pqt {
+	right: 300px;
+	height: 300px;
+	border-radius: 50px;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.pq {
+	right: 220px;
+	height: 220px;
+	border-radius: 10px;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.pt {
+	font-family: arial black;
+	color: #DA9621;
+	text-align: center;
+}
+.rs {
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	display: block;
+	margin: auto;
+}
+hr, .hrcolor {
+   height: 3px;
+   border: 0;
+   color: #303841;
+   background-color: #303841;
+}
